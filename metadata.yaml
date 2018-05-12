@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/830
     wikipedia: http://de.wikipedia.org/wiki/Luise_M%C3%BChlbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16396#A-Conspiracy-of-the-Carbonari
 gutenberg_issued: '2005-07-30'
 gutenberg_type: Text
 identifiers:
